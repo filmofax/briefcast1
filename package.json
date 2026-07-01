@@ -1,0 +1,7 @@
+{
+  "name": "briefcast-tts-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ElevenLabs text-to-speech proxy for the Briefcast prototype",
+  "type": "module"
+}
